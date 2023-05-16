@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "block_d": [],
+  "block_l": [],
+  "block_r": [],
+  "block_u": [],
+  "comment": "",
+  "frames": [
+    {
+      "dirs": [
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ],
+  "height": 16,
+  "name": "Cursor",
+  "ndirs": 1,
+  "nframes": 1,
+  "sheet": "Cursor.bmp",
+  "solidbox": {
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "spawnpoint": {
+    "x": 0,
+    "y": 0
+  },
+  "width": 16
+}

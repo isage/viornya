@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "height": 64,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "block_d": [],
+  "block_l": [],
+  "block_r": [],
+  "block_u": [],
+  "comment": "",
+  "frames": [
+    {
+      "dirs": [
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 64
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ],
+  "height": 64,
+  "name": "Scroller",
+  "ndirs": 2,
+  "nframes": 1,
+  "sheet": "Opening.bmp",
+  "solidbox": {
+    "height": 64,
+    "width": 48,
+    "x": 0,
+    "y": 0
+  },
+  "spawnpoint": {
+    "x": 0,
+    "y": 0
+  },
+  "width": 48
+}

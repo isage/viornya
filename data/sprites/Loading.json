@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "height": 8,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "block_d": [],
+  "block_l": [],
+  "block_r": [],
+  "block_u": [],
+  "comment": "",
+  "frames": [
+    {
+      "dirs": [
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ],
+  "height": 8,
+  "name": "Loading",
+  "ndirs": 1,
+  "nframes": 1,
+  "sheet": "Loading.bmp",
+  "solidbox": {
+    "height": 8,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "spawnpoint": {
+    "x": 0,
+    "y": 0
+  },
+  "width": 32
+}

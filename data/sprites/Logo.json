@@ -1,0 +1,75 @@
+{
+  "bbox": {
+    "height": 64,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "block_d": [],
+  "block_l": [],
+  "block_r": [],
+  "block_u": [],
+  "comment": "",
+  "frames": [
+    {
+      "dirs": [
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 48,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "drawPoint": {
+            "x": 0,
+            "y": 0
+          },
+          "sheetOffset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ],
+  "height": 64,
+  "name": "Logo",
+  "ndirs": 1,
+  "nframes": 1,
+  "sheet": "Opening.bmp",
+  "solidbox": {
+    "height": 64,
+    "width": 200,
+    "x": 0,
+    "y": 0
+  },
+  "spawnpoint": {
+    "x": 0,
+    "y": 0
+  },
+  "width": 200
+}
